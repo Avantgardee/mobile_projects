@@ -38,7 +38,7 @@ class _EmailFieldState extends State<EmailField> {
     setState(() {
       final email = widget.controller.text;
       if (email.isEmpty || !_isValidEmail(email)) {
-        _errorText = 'Пожалуйста, введите корректный email';
+        _errorText = 'Пожалуйста, введите ваш корректный email';
         widget.onValidationChanged(true);
       } else {
         _errorText = null;
