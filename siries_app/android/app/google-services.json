@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614898179055",
+    "project_id": "siries",
+    "storage_bucket": "siries.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614898179055:android:dcda270543fcad0903b41a",
+        "android_client_info": {
+          "package_name": "com.example.siries_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaBoZzx-u1FpsacWfHOCU0tallxYzwQnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
