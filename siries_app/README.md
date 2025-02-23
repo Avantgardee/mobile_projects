@@ -1,4 +1,4 @@
-# siries_app
+# cookbook_app
 
 A new Flutter project.
 
