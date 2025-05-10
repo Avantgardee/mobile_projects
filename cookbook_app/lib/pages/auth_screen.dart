@@ -8,7 +8,7 @@ import '../widgets/verification_dialog.dart';
 import '../widgets/custom_text_field.dart';
 
 class AuthScreen extends StatefulWidget {
-  const AuthScreen({super.key});
+  const AuthScreen({super.key}); //fdffddffdfdfd
 
   @override
   State<AuthScreen> createState() => _AuthScreenState();
